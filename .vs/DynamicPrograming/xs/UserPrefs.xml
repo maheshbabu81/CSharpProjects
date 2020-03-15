@@ -1,0 +1,48 @@
+﻿<Properties StartupConfiguration="{FC54BBC9-981D-4E88-AB2C-2C0A02FD55BC}|Default">
+  <MonoDevelop.Ide.ItemProperties.DynamicPrograming PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="DynamicPrograming/GraphProblem.cs">
+    <Files>
+      <File FileName="DynamicPrograming/Program.cs" Line="54" Column="81" />
+      <File FileName="DynamicPrograming/CoinsProblem.cs" Line="40" Column="40" />
+      <File FileName="DynamicPrograming/GraphProblem.cs" Line="30" Column="26" />
+      <File FileName="DynamicPrograming/IntegerAlgorithm.cs" Line="17" Column="31" />
+      <File FileName="DynamicPrograming/StringProblem.cs" Line="59" Column="13" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="DynamicPrograming" expanded="True">
+            <Node name="DynamicPrograming" expanded="True" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State>
+          <Value>array.GetLength(0)</Value>
+          <Value>array.GetLength</Value>
+          <Value>consoleRead.KeyChar</Value>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/maheshbabu/Projects/DynamicPrograming/DynamicPrograming/dpmecmtr.0o8~" relfile="DynamicPrograming/dpmecmtr.0o8~" line="14" column="1" />
+      <Breakpoint file="/Users/maheshbabu/Projects/DynamicPrograming/DynamicPrograming/dpmecmtr.0o8~" relfile="DynamicPrograming/dpmecmtr.0o8~" line="90" column="1" />
+      <Breakpoint file="/Users/maheshbabu/Projects/DynamicPrograming/DynamicPrograming/dpmecmtr.0o8~" relfile="DynamicPrograming/dpmecmtr.0o8~" line="60" column="1" />
+      <Breakpoint file="/Users/maheshbabu/Projects/DynamicPrograming/DynamicPrograming/dpmecmtr.0o8~" relfile="DynamicPrograming/dpmecmtr.0o8~" line="78" column="1" />
+      <Breakpoint file="/Users/maheshbabu/Projects/DynamicPrograming/DynamicPrograming/dpmecmtr.0o8~" relfile="DynamicPrograming/dpmecmtr.0o8~" line="84" column="1" />
+      <Breakpoint file="/Users/maheshbabu/Projects/DynamicPrograming/DynamicPrograming/5cqkcram.2e9~" relfile="DynamicPrograming/5cqkcram.2e9~" line="26" column="1" />
+      <Breakpoint file="/Users/maheshbabu/Projects/DynamicPrograming/DynamicPrograming/GraphProblem.cs" relfile="DynamicPrograming/GraphProblem.cs" line="13" column="1" />
+      <Breakpoint file="/Users/maheshbabu/Projects/DynamicPrograming/DynamicPrograming/uvcwe56f.vnj~" relfile="DynamicPrograming/uvcwe56f.vnj~" line="19" column="1" />
+      <Breakpoint file="/Users/maheshbabu/Projects/DynamicPrograming/DynamicPrograming/jav7qvtm.i2g~" relfile="DynamicPrograming/jav7qvtm.i2g~" line="24" column="1" />
+      <Breakpoint file="/Users/maheshbabu/Projects/DynamicPrograming/DynamicPrograming/jav7qvtm.i2g~" relfile="DynamicPrograming/jav7qvtm.i2g~" line="14" column="1" />
+      <Breakpoint file="/Users/maheshbabu/Projects/DynamicPrograming/DynamicPrograming/jav7qvtm.i2g~" relfile="DynamicPrograming/jav7qvtm.i2g~" line="20" column="1" />
+      <Breakpoint file="/Users/maheshbabu/Projects/DynamicPrograming/DynamicPrograming/jav7qvtm.i2g~" relfile="DynamicPrograming/jav7qvtm.i2g~" line="22" column="1" />
+      <Breakpoint file="/Users/maheshbabu/Projects/DynamicPrograming/DynamicPrograming/GraphProblem.cs" relfile="DynamicPrograming/GraphProblem.cs" line="30" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
