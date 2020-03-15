@@ -1,9 +1,0 @@
-/Users/maheshbabu/Projects/AlgorithmConsole/AlgorithmConsole/bin/Debug/AlgorithmConsole.exe
-/Users/maheshbabu/Projects/AlgorithmConsole/AlgorithmConsole/bin/Debug/AlgorithmConsole.pdb
-/Users/maheshbabu/Projects/AlgorithmConsole/AlgorithmConsole/obj/Debug/AlgorithmConsole.exe
-/Users/maheshbabu/Projects/AlgorithmConsole/AlgorithmConsole/obj/Debug/AlgorithmConsole.pdb
-/Users/maheshbabu/Projects/AlgorithmConsole/bin/Debug/AlgorithmConsole.exe
-/Users/maheshbabu/Projects/AlgorithmConsole/bin/Debug/AlgorithmConsole.pdb
-/Users/maheshbabu/Projects/AlgorithmConsole/obj/Debug/AlgorithmConsole.csprojAssemblyReference.cache
-/Users/maheshbabu/Projects/AlgorithmConsole/obj/Debug/AlgorithmConsole.exe
-/Users/maheshbabu/Projects/AlgorithmConsole/obj/Debug/AlgorithmConsole.pdb
